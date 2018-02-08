@@ -12,9 +12,14 @@ FDTD法による３次元電磁波シミュレーションをFortranで記述す
 
 ## Usage
 
-コンパイルコマンド
+- コンパイルコマンド
 ```
 $ gfortran FDTD3D.f
+```
+
+- 実行コマンド
+```
+$ ./a.out
 ```
 
 ## Installation
